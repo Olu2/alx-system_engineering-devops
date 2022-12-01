@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod touch
+chmod u+x touch
