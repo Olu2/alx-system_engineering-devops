@@ -1,2 +1,2 @@
 #!/bin/bash
-echo Abcdefghijklmnopqrstuvwxyz | tr Ac Ze
+tr Az Ce
